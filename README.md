@@ -1,3 +1,3 @@
-# CSS 
+# DEMO 
 My first Git repository.
-All my css codes are here.
+All my codes are here.
