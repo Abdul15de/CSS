@@ -1,2 +1,2 @@
-# CSS
-My first Git repository
+# CSS 
+My first Git repository.
